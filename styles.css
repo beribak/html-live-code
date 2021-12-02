@@ -1,0 +1,60 @@
+.blue {
+    background-color: blue;
+}
+
+a {
+    text-decoration: none;
+    color: salmon;
+}
+.avatar-container {
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.avatar {
+    margin-top: 10px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.header {
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.container {
+    margin: auto;
+    width: 60%;
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.card {
+    background-color: rgb(200, 200, 200);
+    padding: 10px;
+    width: fit-content;
+}
+
+.card img {
+    width: 250px;
+}
+
+.card-info {
+}
+
+.info-status {
+    margin-left: auto;
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+}
+
+p {
+    margin-bottom: 0px;
+    margin-top: 5px;
+}
